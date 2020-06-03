@@ -1,0 +1,8 @@
+commands we have done 
+git init
+git status 
+git add filename
+git commit -m "your commit message"
+git log
+git restore filename
+git touch to create a file 
